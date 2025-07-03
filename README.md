@@ -1,111 +1,64 @@
-# 👋 Hi, I'm Jo Dene Reid
-
- 
-
-🎯 **Data Analyst | Web Developer | Business Strategist**
-
- 
-
-I’m a solutions-driven professional with a strong foundation in both data analytics and web development. I specialize in turning data into insight and designs into engaging, functional experiences.
-
- 
+<p align="center">
+  <h1 align="center">👋 Hi there, I'm Jo!</h1>
+  <h3 align="center">Data Analyst & Web Developer</h3>
+  <p align="center">📍 Based in Toronto, Canada</p>
+</p>
 
 ---
 
- 
+## 💼 About Me
 
-## 🧠 Core Skills
+I’m an analytical and solutions-driven professional with a strong background in **computer science**, **business administration**, and **data analytics**. I have a passion for building data-powered solutions and modern web interfaces.
 
- 
-
-### 💻 Web & App Development
-
-- **Languages & Tools:** HTML, CSS, JavaScript, Swift, WordPress
-
-- **Design & Workflow:** UI/UX Design, Graphic Design, Responsive Web Design, Version Control (Git/GitHub)
-
- 
-
-### 📊 Data Analytics
-
-- **Languages:** Python, R, SQL, NoSQL, VBA, SAS
-
-- **Tools:** Tableau, Power BI, Databricks, Azure, Google Analytics
-
-- **Techniques:** EDA, Data Cleaning, Feature Engineering, Predictive Modeling, Dashboarding
-
- 
+- 🎓 Advanced Diploma in Data Science and Application  
+- 🎓 BSc in Business Administration  
+- 🧠 Always learning and building
 
 ---
 
- 
+## 🧰 Technical Skills
 
-## 💼 Featured Projects
+**Data Analytics & BI**  
+Python · R · SQL · NoSQL · PostgreSQL · SAS · Tableau · Power BI · Excel Macros · VBA · Azure · Databricks  
 
- 
+**Web Development & Design**  
+HTML · CSS · JavaScript · Swift · WordPress · UI/UX Design · Adobe XD · Graphic Design · Version Control (Git/GitHub)  
 
-### 🔹 Personal Portfolio Website
-
-- Developed with HTML, CSS, JavaScript, and UI/UX design principles 
-
-- Responsive layout with interactive components and graphic elements 
-
- 
-
-### 🔹 iOS App Interface (Swift)
-
-- Built sample app UI using Swift for mobile user interaction 
-
-- Applied clean, minimalistic graphic design to enhance UX 
-
- 
-
-### 🔹 Machine Learning Modeling with Python
-
-- Used `scikit-learn` and `statsmodels` to create regression and classification models 
-
-- Evaluated using cross-validation, confusion matrix, and performance metrics 
-
- 
-
-### 🔹 Dashboards with Tableau & Power BI
-
-- Created business dashboards and visualizations for decision support 
-
-- Implemented interactive filtering, KPIs, and storytelling features 
-
- 
+**Other Tools**  
+Google Analytics · Hypothesis Testing · Feature Engineering · Data Visualization · Reporting Tools · Risk Management
 
 ---
 
- 
+## 🚀 Recent Projects
 
-## 🏢 Experience
+### 📊 Customer Segmentation in SAS
+● Tools: SAS Enterprise Miner  
+● Performed clustering to segment high-value customers  
+● Improved targeted marketing strategies
 
- 
+### 🤖 EDA & ML in Python  
+● Tools: Pandas, Scikit-learn, Matplotlib  
+● Built predictive models for salary estimation  
+● Deployed machine learning pipeline for business insights
 
-**Senior Account Executive & Data Analyst** 
+### 📈 Tableau Dashboard: Sales Analysis  
+● Tools: Tableau, Excel  
+● Interactive dashboard with regional KPIs and trendlines  
+● Reduced reporting time by 40%
 
-*Custom Fire & Sprinkler, 2019 – 2024* 
-
-- Designed tools and dashboards to support business growth 
-
-- Led reporting efforts and trained staff on analytics and systems 
-
-- Automated processes and built custom databases 
-
- 
+### 🌐 Portfolio Website  
+● Tools: HTML, CSS, JS, Adobe XD  
+● Features animated headers, lightbox gallery, responsive layout  
+● Integrated projects and contact form
 
 ---
 
- 
+## 📫 Let's Connect
 
-## 📚 Education & Certifications
+- 📧 Email: reidjo10@gmail.com 
 
- 
+---
 
-- 🎓 **BSc in Business Administration** – Northern Caribbean University, 2013
-  
-- 🎓 **Advanced Diploma in Data Science and Application** – Metro College, 2024 
-
-- 📈 **Google Analytics Certified** – Google, 2024  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Drjreid85&show_icons=true&theme=default" alt="Jo's GitHub Stats">
+</p>
