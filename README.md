@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">👋 Hi there, I'm Jo!</h1>
   <h3 align="center">Data Analyst & Web Developer</h3>
-  <p align="center">📍 Based in Toronto, Canada</p>
+  <p align="center">📍 Creativity. Curiousity. Clean</p>
 </p>
 
 ---
